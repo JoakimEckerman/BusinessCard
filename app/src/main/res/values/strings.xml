@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="signature">Joakim Eckerman</string>
+    <string name="linkedIn">www.linkedin.com/in/joakimeckerman/</string>
+    <string name="title">CSULB Computer Science</string>
+    <string name="phone">tel:6615194818</string>
+    <string name="gitHub">https://github.com/JoakimEckerman?tab=repositories</string>
+    <string name="email">mailto:Joakim.eckerman98@gmail.com</string>
+</resources>
